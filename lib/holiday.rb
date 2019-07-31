@@ -14,7 +14,7 @@ def second_supply_for_fourth_of_july(holiday_hash)
        :thanksgiving => ["Turkey"]
      },
      :spring => {
-       :memorial_day => ["BBQ"]
+       :memorial_day => ["BBQ"]bgt
      }
    }
   # return the second element in the 4th of July array
